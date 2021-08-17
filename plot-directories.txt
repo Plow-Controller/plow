@@ -1,0 +1,12 @@
+#
+#       --Save Plot Directories here. 
+#     Plow opens both This file, and the 
+# client config file after install or update--
+#
+
+  plot_directories:
+  - /
+  - /
+  - /
+  - /
+
