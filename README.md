@@ -1,5 +1,5 @@
 # Plow
-The Plow is a Multi POsT Mining Client  Controller
+The Plow is a Linux Multi POsT Mining Client  Controller
 
 To install The Plow:
 
@@ -129,6 +129,8 @@ E-Mail = plowcontroller@gmail.com
 
 website comming soon.
 theplow.net
+    
+Windows, Mac and Docker support coming soon!
 
 This project is still in its infancy with many new features being added on the road-map.
 This has started as a list of CLI commands saved to a .txt file to aid me in starting/installing/updating the clients individually. But has grown to be more.
