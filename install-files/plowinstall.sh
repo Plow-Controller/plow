@@ -4,7 +4,7 @@ sudo cp -i plow_rc.py /usr/bin/plow_rc.py
 sudo cp -i ~/plow/plow.py /usr/bin/plow.py
 sudo cp -R -i plow /usr/share/icons/plow
 sudo cp -i plow.desktop /usr/share/applications/plow.desktop
-sudo cp -i ~/Desktop/plow.desktop
+sudo cp -i plow.desktop ~/Desktop/plow.desktop
 export XDG_RUNTIME_DIR=/run/user/$(id -u)
 sudo apt update
 sudo apt install python3-pyqt5 -y
