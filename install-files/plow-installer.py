@@ -5,7 +5,7 @@ import plow_rc
 
 
 def update():
-    os.system('sh update')
+    os.system('sh update.sh')
 
 def install():
     os.system('sh plowinstall.sh')
