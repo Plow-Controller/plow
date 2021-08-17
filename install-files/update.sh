@@ -20,7 +20,7 @@ sudo cp -i plow_rc.py /usr/bin/plow_rc.py
 sudo cp -i ~/plow/plow.py /usr/bin/plow.py
 sudo cp -R -i plow /usr/share/icons/plow
 sudo cp -i plow.desktop /usr/share/applications/plow.desktop
-sudo cp -i ~/Desktop/plow.desktop
+sudo cp -i plow.desktop ~/Desktop/plow.desktop
 echo ""
 echo "------------------------------------------------------------"
 echo "The Plow POsT Multi Client CLI Controller has been installed"
