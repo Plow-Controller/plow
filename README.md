@@ -24,10 +24,11 @@ Click the Update Plow button.
 
 NOTE:
 
-Closing The Plow, also closes any clients opened with The Plow.
+- Closing The Plow, also closes any clients opened with The Plow.
 Leave The Plow open or it will shut down the clients.
 I consider this a bug, and it is being worked on. Soon you should be able to 
 close the Plow, and keep any clients started with the Plow running.
+- Added folder to hold new-clients that can be opened manualy until a new Main_Window update with support.
 
 The basics
 
