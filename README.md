@@ -26,7 +26,7 @@ NOTE:
 
 Closing The Plow, also closes any clients opened with The Plow.
 Leave The Plow open or it will shut down the clients.
-This is a bug and being worked on. Soon you should be able to 
+I consider this a bug, and it is being worked on. Soon you should be able to 
 close the Plow, and keep any clients started with the Plow running.
 
 The basics
