@@ -15,6 +15,11 @@ After the Installation:
 The Plow is accessible from System App tray under programming,
 or from The Plow Icon on the your Desktop.
 
+Closing The Plow, also closes any clients opened with The Plow.
+Leave The Plow open or it will shut down the clients.
+This is a bug and being worked on. Soon you should be able to 
+close the Plow, and keep any clients started with the Plow running.
+
 To Update The Plow:
 
 Open The Plow Main Window/Extras Tab
@@ -62,7 +67,7 @@ Dstat
 
 Standalone Client Window
 
-The Standalone Client window is where you have far more control over each individual client. Each standalone window is opened in its own terminal, you can use more than one standalone client at any given time, using functions from each client simultaneously while also using the Main_Window to open logs and config files for another client. The main window can be closed while the Standalone_Windows are open without it closing any Standalone_Windows, and vice-versa. The Standalone_Window is where you will find everything from install/update/delete, closing ports associated with the client, wallet address, add/delete/show keys and even start a new terminal window in the client folder to insert custom commands quickly. You can also install and open the gui front-end for the client, But I would advise to only do this with the Plow to use a quick function such as a transaction. The Standalone Gui will need to stay open for the duration of the GUI Client, using vital resources.. If you would like to open a Gui Client from the Standalone Interface for a longer deration, I would recomend using the open terminal function from the Dashboard, and open the GUI from there so you can close the Standalone Interface without shutting down the GUI Client. 
+The Standalone Client window is where you have far more control over each individual client. Each standalone window is opened in its own terminal, you can use more than one standalone client at any given time, using functions from each client simultaneously while also using the Main_Window to open logs and config files for another client. The Standalone_Window is where you will find everything from install/update/delete, closing ports associated with the client, wallet address, add/delete/show keys and even start a new terminal window in the client folder to insert custom commands quickly. You can also install and open the gui front-end for the client, But I would advise to only do this with the Plow to use a quick function such as a transaction. The Standalone Gui will need to stay open for the duration of the GUI Client, using vital resources.. If you would like to open a Gui Client from the Standalone Interface for a longer deration, I would recomend using the open terminal function from the Dashboard, and open the GUI from there so you can close the Standalone Interface without shutting down the GUI Client. 
 
 
 Standalone Window Functions By Tab:
