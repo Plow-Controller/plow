@@ -15,17 +15,19 @@ After the Installation:
 The Plow is accessible from System App tray under programming,
 or from The Plow Icon on the your Desktop.
 
-Closing The Plow, also closes any clients opened with The Plow.
-Leave The Plow open or it will shut down the clients.
-This is a bug and being worked on. Soon you should be able to 
-close the Plow, and keep any clients started with the Plow running.
-
 To Update The Plow:
 
 Open The Plow Main Window/Extras Tab
 Click The Plow Installer Button on the bottom right 
 Navigate to Update Tab
 Click the Update Plow button. 
+
+NOTE:
+
+Closing The Plow, also closes any clients opened with The Plow.
+Leave The Plow open or it will shut down the clients.
+This is a bug and being worked on. Soon you should be able to 
+close the Plow, and keep any clients started with the Plow running.
 
 The basics
 
